@@ -1,4 +1,4 @@
-# diffusion-fashion-generator
+# StyleSwap: Text-Driven Latent Diffusion Models For Localized Fashion Image Editing
 
 ## Contribution
 
