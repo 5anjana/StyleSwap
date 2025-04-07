@@ -1,0 +1,4 @@
+name: my_experiment
+gpu_ids: [0, 1]
+set_CUDA_VISIBLE_DEVICES: true
+debug_path: false
