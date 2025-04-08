@@ -7,8 +7,8 @@ To contribute to this repository:
 1. Clone this repository on your local machine using
 
   ```sh
-   git clone https://github.com/5anjana/diffusion-fashion-generator.git
-   cd diffusion-fashion-generatort`
+   git clone https://github.com/5anjana/StyleSwap.git
+   cd StyleSwap
   ```
 
 2. Create and switch to a new branch with your name
